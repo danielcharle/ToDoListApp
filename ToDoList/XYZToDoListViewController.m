@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Ryan Riopelle. All rights reserved.
 //
 
-#import "XYZToDoList.h"
+#import "XYZToDoListViewController.h"
 
 @interface XYZToDoList ()
 
